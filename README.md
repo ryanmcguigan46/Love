@@ -1,9 +1,7 @@
 <html>
  <head>
   <style>
-   head {
-   color: red;
-   }
+   p{color: red;}
   </style>
    Why People?
  </head>
