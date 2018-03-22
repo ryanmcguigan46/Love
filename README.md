@@ -1,5 +1,5 @@
 <html>
- <head>
+ <head align= "center">
    Why People?
  </head>
  <body>
