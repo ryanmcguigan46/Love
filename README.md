@@ -3,6 +3,7 @@
    Why People?
  </head>
  <body>
+  <img src= "https://cdn.pixabay.com/photo/2017/06/15/11/49/question-mark-2405202_960_720.png"/>
    <ol>
      <li><a href= "http://static1.squarespace.com/static/53a2370ee4b0a429a264964c/t/5481df27e4b090c38ea0bd47/1417797415726/kindness-boys-on-path.jpg">people can be nice at times.</a></li>
      <li><a href= "http://prima.cdnds.net/assets/15/24/980x490/landscape-1433812400-friends-laughing-together-in-a-cafe.jpg">laughter is best shared</a></li>
