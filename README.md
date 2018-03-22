@@ -1,5 +1,10 @@
 <html>
  <head>
+  <style>
+   head {
+   color: red;
+   }
+  </style>
    Why People?
  </head>
  <body>
