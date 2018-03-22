@@ -14,7 +14,7 @@
      </tr>
      <tr>
       <th>Love </th>
-      <td>Hate</td>
+      <td>Hate </td>
      </tr> 
     </table>
  </body>
