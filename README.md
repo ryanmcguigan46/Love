@@ -9,8 +9,8 @@
      <li><a href= "https://i.pinimg.com/736x/38/53/bf/3853bf5660dbb7abf589cee6d9060ccb--adorable-babies-cute-kids.jpg">babies</a></li>
     <table>
      <tr>
-      <td style= color: pink>Love</td>
-      <td style= color: red>Hate</td>
+      <td style= background-color: pink>Love</td>
+      <td style= background-color: red>Hate</td>
      </tr> 
     </table>
  </body>
