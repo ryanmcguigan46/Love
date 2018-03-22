@@ -9,8 +9,9 @@
      <li><a href= "https://i.pinimg.com/736x/38/53/bf/3853bf5660dbb7abf589cee6d9060ccb--adorable-babies-cute-kids.jpg">babies</a></li>
     <table>
      <tr>
-      <th> Click Below if you Want Peace </th>
+      <th> Click Below if you Want Peace
       <td>Love</td>
+     </th>
       <th> Click Below if you Want War </th>
       <td>Hate</td>
      </tr> 
