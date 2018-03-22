@@ -1,6 +1,6 @@
 <html>
  <head>
-  <span font-size: 20px>    Why People? </span>
+  <span font-size: 60px>    Why People? </span>
  </head>
  <body>
   <img src= "https://cdn.pixabay.com/photo/2017/06/15/11/49/question-mark-2405202_960_720.png"/>
