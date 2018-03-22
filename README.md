@@ -10,10 +10,10 @@
     <table>
      <tr>
       <th> Click Below if you Want Peace</th>
-      <td>Love</td>
+      <td> Click Below if you Want War</td>
      </tr>
      <tr>
-      <th> Click Below if you Want War </th>
+      <th>Love </th>
       <td>Hate</td>
      </tr> 
     </table>
