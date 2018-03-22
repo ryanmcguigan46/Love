@@ -15,7 +15,7 @@
       <th> Click Below if you Want War</th>
      </tr>
      <tr>
-      <td><a href= "http://leightremaine.com/wp-content/images/principles-for-world-peace.png" target= "_blank">Love </a></td>
+      <td><a href= "http://leightremaine.com/wp-content/images/principles-for-world-peace.png" alt= "world peace" target= "_blank">Love </a></td>
       <td> <a href= "https://s3-cdn.pledgemusic.com/artists/000/234/078/heros/desktop.jpg?t=1489571757" target= "blank">Hate </a></td>
      </tr> 
     </table>
