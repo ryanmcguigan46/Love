@@ -1,6 +1,6 @@
 <html>
  <head>
-  <h1>   Why People? </h1>
+  <h1 align= "center">   Why People? </h1>
  </head>
  <body>
   <img src= "https://cdn.pixabay.com/photo/2017/06/15/11/49/question-mark-2405202_960_720.png" alt= "question mark" target= "_blank"/>
